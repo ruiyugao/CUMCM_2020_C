@@ -1,5 +1,5 @@
 # cumcm
-我修改的数学建模国赛模板（分文件， 导入有用的库）
+CUMCM Thesis Template with modification on lib
 
 [![HitCount](http://hits.dwyl.io/chenboshuo/githubcom/chenboshuo/cumcm_template.svg)](http://hits.dwyl.io/chenboshuo/githubcom/chenboshuo/cumcm_template)
 
